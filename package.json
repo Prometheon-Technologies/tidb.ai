@@ -66,7 +66,7 @@
     "llamaindex": "^0.3.10",
     "luxon": "^3.4.4",
     "match-url-wildcard": "^0.0.5",
-    "micromatch": "^4.0.5",
+    "micromatch": "^4.0.8",
     "mime": "^4.0.1",
     "mysql2": "^3.7.1",
     "nanoid": "^5.0.4",
